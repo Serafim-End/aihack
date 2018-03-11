@@ -1,0 +1,7 @@
+*.csv
+*.zip
+*.vec
+*.bin
+*.gz
+*.ipynb_checkpoints/
+*.DS_Store
